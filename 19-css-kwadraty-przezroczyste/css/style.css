@@ -1,0 +1,33 @@
+body {background-color: #f5f5dd;}
+
+#first {
+    background-color: rgba(0, 0, 0);
+    width: 150px;
+    height: 150px;
+    margin: 0 auto;
+    margin-bottom: 15px;
+    margin-top: 30px;
+}
+#second {
+    background-color: rgba(0, 0, 0, 0.75);
+    width: 150px;
+    height: 150px;
+    margin: 0 auto;
+    margin-bottom: 15px;
+}
+#third {
+    background-color: rgba(0, 0, 0, 0.5);
+    width: 150px;
+    height: 150px;
+    margin: 0 auto;
+    margin-bottom: 15px;
+    
+}
+#fourth {
+    background-color: rgba(0, 0, 0, 0.25);
+    width: 150px;
+    height: 150px;
+    margin: 0 auto;
+    margin-bottom: 15px;
+    
+}
