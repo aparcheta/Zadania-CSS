@@ -234,6 +234,7 @@ label[for="drop-nav"]{
 @media (max-width: 480px){
     .main-header .main-header-content h1{
         font-size: 3em;
+        word-wrap: break-word;
     }
     .about .about-img{
         max-height: 200px;
@@ -266,6 +267,9 @@ label[for="drop-nav"]{
         text-align: right;
         margin: 0;
 
+    }
+    hr{ 
+        width: auto;
     }
 }
 
